@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/ab/Desktop/Sanofi/MyIn-iOS/MyInitiative/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessaging.m \
+  /Users/ab/Desktop/Sanofi/MyIn-iOS/MyInitiative/ios/Pods/FirebaseMessaging/Firebase/Messaging/Public/FIRMessaging.h \
+  /Users/ab/Desktop/Sanofi/MyIn-iOS/MyInitiative/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessaging_Private.h \
+  /Users/ab/Desktop/Sanofi/MyIn-iOS/MyInitiative/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingClient.h \
+  /Users/ab/Desktop/Sanofi/MyIn-iOS/MyInitiative/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingConstants.h \
+  /Users/ab/Desktop/Sanofi/MyIn-iOS/MyInitiative/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingContextManagerService.h \
+  /Users/ab/Desktop/Sanofi/MyIn-iOS/MyInitiative/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDataMessageManager.h \
+  /Users/ab/Desktop/Sanofi/MyIn-iOS/MyInitiative/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDefines.h \
+  /Users/ab/Desktop/Sanofi/MyIn-iOS/MyInitiative/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingLogger.h \
+  /Users/ab/Desktop/Sanofi/MyIn-iOS/MyInitiative/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMMessageCode.h \
+  /Users/ab/Desktop/Sanofi/MyIn-iOS/MyInitiative/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingPubSub.h \
+  /Users/ab/Desktop/Sanofi/MyIn-iOS/MyInitiative/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingReceiver.h \
+  /Users/ab/Desktop/Sanofi/MyIn-iOS/MyInitiative/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingRemoteNotificationsProxy.h \
+  /Users/ab/Desktop/Sanofi/MyIn-iOS/MyInitiative/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingRmqManager.h \
+  /Users/ab/Desktop/Sanofi/MyIn-iOS/MyInitiative/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingSyncMessageManager.h \
+  /Users/ab/Desktop/Sanofi/MyIn-iOS/MyInitiative/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingUtilities.h \
+  /Users/ab/Desktop/Sanofi/MyIn-iOS/MyInitiative/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingVersionUtilities.h \
+  /Users/ab/Desktop/Sanofi/MyIn-iOS/MyInitiative/ios/Pods/Headers/Private/FirebaseCore/FIRAppInternal.h \
+  /Users/ab/Desktop/Sanofi/MyIn-iOS/MyInitiative/ios/Pods/Headers/Private/FirebaseCore/FIRApp.h \
+  /Users/ab/Desktop/Sanofi/MyIn-iOS/MyInitiative/ios/Pods/Headers/Private/FirebaseCore/FIRErrors.h \
+  /Users/ab/Desktop/Sanofi/MyIn-iOS/MyInitiative/ios/Pods/Headers/Private/FirebaseCore/FIRErrorCode.h \
+  /Users/ab/Desktop/Sanofi/MyIn-iOS/MyInitiative/ios/Pods/Headers/Public/FirebaseInstanceID/FirebaseInstanceID/FirebaseInstanceID.h \
+  /Users/ab/Desktop/Sanofi/MyIn-iOS/MyInitiative/ios/Pods/Headers/Public/FirebaseInstanceID/FirebaseInstanceID/FIRInstanceID.h \
+  /Users/ab/Desktop/Sanofi/MyIn-iOS/MyInitiative/ios/Pods/Headers/Private/GoogleUtilities/GULReachabilityChecker.h \
+  /Users/ab/Desktop/Sanofi/MyIn-iOS/MyInitiative/ios/Pods/FirebaseMessaging/Firebase/Messaging/NSError+FIRMessaging.h

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>630FD524-759E-4700-B987-2CB703A1F7A1</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>630FD524-759E-4700-B987-2CB703A1F7A1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyInitiative project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyInitiative</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace MyInitiative with scheme MyInitiative and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>565264803.74190998</real>
+			<key>timeStoppedRecording</key>
+			<real>565265338.01550496</real>
+			<key>title</key>
+			<string>Building workspace MyInitiative with scheme MyInitiative and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>630FD524-759E-4700-B987-2CB703A1F7A1</string>
+		</dict>
+		<key>D222F0B6-F0F0-41F2-A7FB-B280410D67AF</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D222F0B6-F0F0-41F2-A7FB-B280410D67AF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyInitiative project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyInitiative</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace MyInitiative with scheme MyInitiative and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>565265667.55076098</real>
+			<key>timeStoppedRecording</key>
+			<real>565265676.41624999</real>
+			<key>title</key>
+			<string>Building workspace MyInitiative with scheme MyInitiative and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>D222F0B6-F0F0-41F2-A7FB-B280410D67AF</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
