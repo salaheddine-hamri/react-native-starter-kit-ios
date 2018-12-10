@@ -1,2 +1,2 @@
 * linguist-vendored
-*.d linguist-language=Objective-C
+*.js linguist-vendored=false
